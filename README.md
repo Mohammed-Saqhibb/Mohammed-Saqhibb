@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saqhib</h1>
-<h3 align="center">Aspiring Data Professional | Proficient in Data Visualization, Data Engineering & Decision Sciences</h3>
+<h3 align="center">MCA Student | Data Engineering, Analytics &amp; Visualization</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-saqhib-87b8b325a" target="blank">
@@ -24,15 +24,25 @@
 ---
 
 ### 🌟 Professional Summary
-I’m a highly motivated ** BCA Student** from Dayanand Sagar University, Bengaluru, with expertise in data visualization, data engineering, and decision sciences. I am passionate about solving complex problems using statistical models and delivering actionable insights through visual storytelling.
+I am pursuing an MCA at New Horizon College in Bengaluru and hold a BCA from Dayanand Sagar University. My work focuses on data engineering, visualization, and applied analytics.
 
 ---
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saqhib&show_icons=true&theme=radical&count_private=true" alt="Mohammed Saqhib's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saqhib&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saqhib-Mohammed&show_icons=true&theme=radical" alt="Mohammed Saqhib's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqhib-Mohammed&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
 </p>
+
+---
+
+### 🏅 GitHub Achievements
+
+Earned on my previous GitHub account, **Mohammed-Saqhib**.
+
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-2D6937?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-2457A6?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-A84068?style=for-the-badge)
 
 ---
 
@@ -64,10 +74,10 @@ I’m a highly motivated ** BCA Student** from Dayanand Sagar University, Bengal
 ---
 
 ### 📂 Key Projects
-- **Fraud Detection Model**  
+- **[Fraud Detection Model](https://github.com/Saqhib-Mohammed/fraud-detection-system)**  
   Built a machine learning model to detect fraudulent transactions from a 6M+ dataset with high precision and recall.
   
-- **BookStoreApp**  
+- **[BookStoreApp](https://github.com/Saqhib-Mohammed/BookStoreApp)**  
   Developed a full-stack app with Node.js, Express.js, and MongoDB, featuring user authentication and responsive design.
 
 - **Inventory Management System**  
@@ -84,7 +94,6 @@ I’m a highly motivated ** BCA Student** from Dayanand Sagar University, Bengal
 
 ### 📫 Let's Connect
 - **Email**: msaqhib76@gmail.com  
-- **Phone**: +91-6239121164  
 - **Location**: Bengaluru, India  
 
 ---
