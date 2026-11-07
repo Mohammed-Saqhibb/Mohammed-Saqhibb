@@ -36,16 +36,6 @@ I am pursuing an MCA at New Horizon College in Bengaluru and hold a BCA from Day
 
 ---
 
-### 🏅 GitHub Achievements
-
-Earned on my previous GitHub account, **Mohammed-Saqhib**.
-
-![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-2D6937?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-2457A6?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-A84068?style=for-the-badge)
-
----
-
 ### 💼 Professional Experience
 #### **Data Science and AI Intern** – *Ioncure Tech Pvt. Ltd*  
 *June – August 2024*  
