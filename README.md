@@ -29,10 +29,14 @@ I am pursuing an MCA at New Horizon College in Bengaluru and hold a BCA from Day
 ---
 
 ### 🔥 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saqhib-Mohammed&show_icons=true&theme=radical" alt="Mohammed Saqhib's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqhib-Mohammed&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
-</p>
+
+| Public repositories | Stars earned |
+| ---: | ---: |
+| 32 | 0 |
+
+**Top languages by code size** — Python, JavaScript, Jupyter Notebook, HTML, C++, Cython
+
+Snapshot taken on 2026-11-07 from public, non-fork repositories. See my [GitHub profile](https://github.com/Saqhib-Mohammed) for live contribution activity.
 
 ---
 
